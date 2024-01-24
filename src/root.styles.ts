@@ -15,10 +15,12 @@ export const useStyles = createUseStyles({
     },
     wrapper: {
         maxWidth: 600,
+        width: '100%',
         display: 'flex',
         flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
+        padding: '0 32px',
     },
     title: {
         marginBottom: 4,
