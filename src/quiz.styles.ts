@@ -57,7 +57,6 @@ export const useStyles = createUseStyles({
         backdropFilter: 'blur(3px)',
         color: '#FFFFFF',
         background: 'rgba(0, 0, 0, .35)',
-        minWidth: 42,
         height: 42,
         padding: 8,
         borderRadius: 8,
